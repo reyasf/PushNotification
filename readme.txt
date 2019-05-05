@@ -14,4 +14,4 @@ Enable Notification:
 Load Notification:
 - Notification box loaded automatically to the posts selected
 - Future versions can have advanced options for the notifications box
-
+- Notification will close automatically after 30 seconds
