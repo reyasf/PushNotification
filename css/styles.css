@@ -1,0 +1,16 @@
+.push-notification {
+    position:fixed; 
+    top:50px; 
+    right:50px; 
+    width:25%; 
+    z-index:100; 
+    background-color: #89cff0; 
+    text-align:center; 
+    min-height:40px; 
+    line-height:30px; 
+    color:#ffffff;
+    font-size:16px;
+    padding:10px;
+    max-height:300px;
+    overflow:auto;
+}
